@@ -2,8 +2,7 @@
 format: gfm
 ---
 
-
-# Cybersecurity Standardisation Conference 2023
+# Personal Notes | from the Cybersecurity Standardisation Conference 2023
 
 #Standards4Cyber
 
@@ -27,7 +26,7 @@ The 2023 programme of this well-recognized conference will have dedicated sessi
 
 [How Cybersecurity Standards Support the Evolving EU Legislative Landscape](https://www.enisa.europa.eu/news/how-cybersecurity-standards-support-the-evolving-eu-legislative-landscape)
 
-\newpage
+---
 
 # Panel oversight
 
@@ -47,11 +46,7 @@ The 2023 programme of this well-recognized conference will have dedicated sessi
 
 ![](_attachments/20230207165859.png)
 
-
-\newpage
-
-
-
+---
 
 ## Panel 1: Future of EU standardisation - regional vs. international
 
