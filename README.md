@@ -47,7 +47,7 @@ Landscape](https://www.enisa.europa.eu/news/how-cybersecurity-standards-support-
 
 # Panel oversight
 
-1 \## Panel 1: Future of EU standardisation - regional vs. international
+## Panel 1: Future of EU standardisation - regional vs. international
 
 ![](_attachments/20230209074821.png)
 
