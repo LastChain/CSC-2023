@@ -48,6 +48,12 @@ About the 7th annual conference: [How Cybersecurity Standards Support the Evolvi
 
 ![](_attachments/20230207122939.png)
 
+- Maika Fohrenbach \- European Commission 
+- Samim Ahmadi \- umlaut 
+- Gisela Meister \- Eurosmart 
+- Philippe Magneron \- Hager Group 
+- Mario Jardim \- Schneider Electric, ECSO
+
 ## Panel 3: eIDASv2 - Where are we heading with digital identities?
 
 ![](_attachments/20230207143402.png)
