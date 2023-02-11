@@ -38,6 +38,8 @@ About the 7th annual conference: [How Cybersecurity Standards Support the Evolvi
 
 ![](_attachments/20230209074821.png)
 
+> Speaker(s)
+
 - Christiane Kirketerp de Viron \- European Commission \- Digital Privacy Policy
 - Elena Santiago Cid \- CEN-CENELEC
 - Wolfgang Niedziella \- CENELEC
@@ -47,6 +49,8 @@ About the 7th annual conference: [How Cybersecurity Standards Support the Evolvi
 ## Panel 2: Cyber Resilience Act - a game changer, how the standards can support it?
 
 ![](_attachments/20230207122939.png)
+
+> Speaker(s)
 
 - Maika Fohrenbach \- European Commission 
 - Samim Ahmadi \- umlaut 
@@ -58,13 +62,27 @@ About the 7th annual conference: [How Cybersecurity Standards Support the Evolvi
 
 ![](_attachments/20230207143402.png)
 
+> Speaker(s)
+
+- Dietmar Gattwinkel \- European Commission
+- Viki Manaila \- Intesi Group
+- Andrea Rock \- ANSSI
+- Chiara Giovannini \- ANEC
+- Wojciech Wiewiorowski \- EDPS
+
 ## Panel 4: Landscape of the EU cybersecurity legislation
 
 ![](_attachments/20230207165859.png)
 
+> Speaker(s)
+
+- Ben Kokx \- Philips
+- George Sharkov \- ESI CEE
+- Mariela Pavlova \- Infineon
+- Andrea Caccia \- Studio Caccia
+- Eric Vetillard \- ENISA
+
 ---
-
-
 
 ## Panel 1: Future of EU standardisation - regional vs. international
 
