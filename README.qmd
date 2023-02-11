@@ -24,15 +24,25 @@ The 2023 programme of this well-recognized conference will have dedicated sessi
 - Reviewed [eIDAS](https://www.consilium.europa.eu/en/press/press-releases/2022/12/06/european-digital-identity-eid-council-adopts-its-position-on-a-new-regulation-for-a-digital-wallet-at-eu-level/) Regulation
 - [RED](https://single-market-economy.ec.europa.eu/sectors/electrical-and-electronic-engineering-industries-eei/radio-equipment-directive-red_en) Directive, proposed [EU Chips Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-chips-act_en), [Data Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_22_1113), [AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0206) and others.
 
-[How Cybersecurity Standards Support the Evolving EU Legislative Landscape](https://www.enisa.europa.eu/news/how-cybersecurity-standards-support-the-evolving-eu-legislative-landscape)
+> Additional information:
+
+See the Article by the `International Association of Privacy Professionals` from [Luca Bertuzzi](https://twitter.com/BertuzLuca): [What the EU has in store for 2023](https://iapp.org/news/a/what-the-eu-has-in-store-for-2023/) _Summary: "With the European elections in spring 2024 fast approaching, in the next 12 months, EU policymakers will focus on closing the most important legislative files."_
+
+About the 7th annual conference: [How Cybersecurity Standards Support the Evolving EU Legislative Landscape](https://www.enisa.europa.eu/news/how-cybersecurity-standards-support-the-evolving-eu-legislative-landscape)
 
 ---
 
-# Panel oversight
+# Panel oversight (in order)
 
 ## Panel 1: Future of EU standardisation - regional vs. international
 
-![](_attachments/20230209074821.png)           
+![](_attachments/20230209074821.png)
+
+- Christiane Kirketerp de Viron \- European Commission \- Digital Privacy Policy
+- Elena Santiago Cid \- CEN-CENELEC
+- Wolfgang Niedziella \- CENELEC
+- Luis Jorge Romero \- ETSI
+- Andreas Mitrakas \- ENISA
 
 ## Panel 2: Cyber Resilience Act - a game changer, how the standards can support it?
 
@@ -42,11 +52,13 @@ The 2023 programme of this well-recognized conference will have dedicated sessi
 
 ![](_attachments/20230207143402.png)
 
-# Panel 4: Landscape of the EU cybersecurity legislation
+## Panel 4: Landscape of the EU cybersecurity legislation
 
 ![](_attachments/20230207165859.png)
 
 ---
+
+
 
 ## Panel 1: Future of EU standardisation - regional vs. international
 

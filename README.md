@@ -1,5 +1,5 @@
 
-# Cybersecurity Standardisation Conference 2023
+# Personal Notes \| from the Cybersecurity Standardisation Conference 2023
 
 \#Standards4Cyber
 
@@ -42,14 +42,34 @@ related to the emerging EU legislation:
   Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0206)
   and others.
 
-[How Cybersecurity Standards Support the Evolving EU Legislative
+> Additional information:
+
+See the Article by the
+`International Association of Privacy Professionals` from [Luca
+Bertuzzi](https://twitter.com/BertuzLuca): [What the EU has in store for
+2023](https://iapp.org/news/a/what-the-eu-has-in-store-for-2023/)
+*Summary: “With the European elections in spring 2024 fast approaching,
+in the next 12 months, EU policymakers will focus on closing the most
+important legislative files.”*
+
+About the 7th annual conference: [How Cybersecurity Standards Support
+the Evolving EU Legislative
 Landscape](https://www.enisa.europa.eu/news/how-cybersecurity-standards-support-the-evolving-eu-legislative-landscape)
 
-# Panel oversight
+------------------------------------------------------------------------
+
+# Panel oversight (in order)
 
 ## Panel 1: Future of EU standardisation - regional vs. international
 
 ![](_attachments/20230209074821.png)
+
+- Christiane Kirketerp de Viron - European Commission - Digital Privacy
+  Policy
+- Elena Santiago Cid - CEN-CENELEC
+- Wolfgang Niedziella - CENELEC
+- Luis Jorge Romero - ETSI
+- Andreas Mitrakas - ENISA
 
 ## Panel 2: Cyber Resilience Act - a game changer, how the standards can support it?
 
@@ -59,9 +79,11 @@ Landscape](https://www.enisa.europa.eu/news/how-cybersecurity-standards-support-
 
 ![](_attachments/20230207143402.png)
 
-# Panel 4: Landscape of the EU cybersecurity legislation
+## Panel 4: Landscape of the EU cybersecurity legislation
 
 ![](_attachments/20230207165859.png)
+
+------------------------------------------------------------------------
 
 ## Panel 1: Future of EU standardisation - regional vs. international
 
