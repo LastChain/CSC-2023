@@ -214,7 +214,7 @@ Requirements
 
 # Panel 3: eIDASv2 - Where are we heading with digital identities?
 
-![](_attachments/20230207143402.png)
+[](_attachments/20230207143402.png)
 
 Fostering trust through complete transparency. Alternatives to
 commercial offerings that do not place the individual at the center.
