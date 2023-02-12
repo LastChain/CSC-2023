@@ -69,7 +69,7 @@ related to the emerging EU legislation:
 
 | Speaker(s)                                                                                                             | Affiliation(s)                                                                                                                                                                   | [Slides](https://www.enisa.europa.eu/events/cybersecurity_standardisation_2023/presentations) |
 |:-----------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|
-| [Christiane Kirketerp de Viron](https://op.europa.eu/en/web/who-is-who/person/-/person/COM_00003AA7A7A0)               | [European Commission](https://commission.europa.eu/index_en) - [Digital Privacy Policy](https://op.europa.eu/en/web/who-is-who/organization/-/organization/CNECT/COM_CRF_245675) |                                                                                               |
+| [Christiane Kirketerp de Viron](https://op.europa.eu/en/web/who-is-who/person/-/person/COM_00003AA7A7A0)               | [European Commission](https://commission.europa.eu/index_en) - [Digital Privacy Policy](https://op.europa.eu/en/web/who-is-who/organization/-/organization/CNECT/COM_CRF_245675) | [Slides from another Event](_attachments/CRA-CNECT_University_presentation.pdf)               |
 | [Elena Santiago Cid](https://www.scc.ca/en/elena-santiago-cid)                                                         | [CEN-CENELEC](https://www.cencenelec.eu/)                                                                                                                                        | [Slides](_attachments/12-santiago.pdf)                                                        |
 | [Wolfgang Niedziella](https://www.cencenelec.eu/about-cenelec/structure-and-governance/cenelec-board-members/)         | [CEN-CENELEC](https://www.cencenelec.eu/)                                                                                                                                        | [Slides](_attachments/13-niedziella.pdf)                                                      |
 | [Luis Jorge Romero](https://www.etsi.org/newsroom/news/1574-2019-04-etsi-re-elects-director-general-luis-jorge-romero) | [ETSI](https://www.etsi.org/)                                                                                                                                                    | [Slides](_attachments/14-romero.pdf)                                                          |
@@ -121,8 +121,8 @@ Digitalization cannot go without cybersecurity investments
 
 [](_attachments/20230209074821.png)  
 - Harmonizing standards  
-- Direct governance & involvement with direct legislative to
-representing the citizens - Openness to cooperate with international
+- Direct governance & involvement and direct legislative that represent
+the citizens of the EU - Openness and cooperate with international
 partners
 
 ## Elena Santiago Cid - CEN-CENELEC
