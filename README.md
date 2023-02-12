@@ -61,9 +61,9 @@ related to the emerging EU legislation:
 
 ------------------------------------------------------------------------
 
-# Panel oversight (in order)
+## Panel oversight (in order)
 
-## Panel 1: Future of EU standardisation - regional vs. international
+### Panel 1: Future of EU standardisation - regional vs. international
 
 ![](_attachments/20230209074821.png)
 
@@ -82,11 +82,11 @@ related to the emerging EU legislation:
 - [Luis Jorge
   Romero](https://www.etsi.org/newsroom/news/1574-2019-04-etsi-re-elects-director-general-luis-jorge-romero) -
   [ETSI](https://www.etsi.org/)
-- \[Andreas
-  Mitrakas\](https://www.rsaconference.com/experts/andreas%20mitrakas -
+- [Andreas
+  Mitrakas](https://www.rsaconference.com/experts/andreas%20mitrakas) -
   [ENISA](https://www.enisa.europa.eu/)
 
-## Panel 2: Cyber Resilience Act - a game changer, how the standards can support it?
+### Panel 2: Cyber Resilience Act - a game changer, how the standards can support it?
 
 ![](_attachments/20230207122939.png)
 
@@ -107,7 +107,7 @@ related to the emerging EU legislation:
   [Schneider Electric](https://www.se.com/ww/en/) -
   [ECSO](https://ecs-org.eu/)
 
-## Panel 3: eIDASv2 - Where are we heading with digital identities?
+### Panel 3: eIDASv2 - Where are we heading with digital identities?
 
 ![](_attachments/20230207143402.png)
 
@@ -127,7 +127,7 @@ related to the emerging EU legislation:
   Wiewiorowski](https://edps.europa.eu/about-edps/members-mission/supervisors/wojciech-wiewi%C3%B3rowski_en) -
   [EDPS](https://edps.europa.eu/)
 
-## Panel 4: Landscape of the EU cybersecurity legislation
+### Panel 4: Landscape of the EU cybersecurity legislation
 
 ![](_attachments/20230207165859.png)
 
@@ -148,9 +148,9 @@ related to the emerging EU legislation:
 
 ------------------------------------------------------------------------
 
-## Panel 1: Future of EU standardisation - regional vs. international
+# Panel 1: Future of EU standardisation - regional vs. international
 
-### Christiane Kirketerp de Viron - European Commission - Digital Privacy Policy
+## Christiane Kirketerp de Viron - European Commission - Digital Privacy Policy
 
 Digitalization cannot go without cybersecurity investments
 
@@ -160,7 +160,7 @@ Digitalization cannot go without cybersecurity investments
 representing the citizens - Openness to cooperate with international
 partners
 
-### Elena Santiago Cid - CEN-CENELEC
+## Elena Santiago Cid - CEN-CENELEC
 
 ![](_attachments/20230207101118.png)  
 1. Lack of awareness  
@@ -170,7 +170,7 @@ partners
 decisions, and practicing optimization and delivering standards
 (national and international)
 
-### Wolfgang Niedziella - CENELEC
+## Wolfgang Niedziella - CENELEC
 
 ![](_attachments/20230207101951.png)  
 - About the Radio Equipment Directive (RED), requirement for
@@ -179,7 +179,7 @@ Standardization, Standards and breaking Data Silos
 TTC](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_596)
 and contributing effectively
 
-### Luis Jorge Romero - ETSI
+## Luis Jorge Romero - ETSI
 
 ![](_attachments/20230207102329.png)  
 - Global Landscape:  
@@ -191,7 +191,7 @@ and contributing effectively
 further elevate education, interconnecting through openness and
 availability to drive costs down
 
-### Andreas Mitrakas - ENISA
+## Andreas Mitrakas - ENISA
 
 ![](_attachments/20230207103200.png)  
 - Business, competition, and standardization strategies for applications
@@ -200,22 +200,22 @@ Proposals for standards, as well as definitions and endorsements for
 public standards  
 - Identifying standardization gaps, and developing follow-up proposals
 
-## Panel 2: Cyber Resilience Act - a game changer, how the standards can support it?
+# Panel 2: Cyber Resilience Act - a game changer, how the standards can support it?
 
 ![](_attachments/20230207122939.png)
 
-### Maika Fohrenbach - European Commission
+## Maika Fohrenbach - European Commission
 
 ![](_attachments/20230207113359.png)  
 - Use of EU-wide certification schemes that can coexist and align with
 current available certifications
 
-### Samim Ahmadi - umlaut
+## Samim Ahmadi - umlaut
 
 ![](_attachments/20230207114945.png)  
 - Increasing demand of standartization experts in diverse fields
 
-### Gisela Meister - Eurosmart
+## Gisela Meister - Eurosmart
 
 ![](_attachments/20230207115852.png) - Using CSA Schemes  
 - Included in the EU’s new CSA requirement
@@ -228,7 +228,7 @@ current available certifications
 standards - Always have hope, be positive, and cooperate to tackle the
 challenges ahead
 
-### Philippe Magneron - Hager Group
+## Philippe Magneron - Hager Group
 
 ![](_attachments/20230207115852.png) - Using CSA Schemes  
 - Included in the EU’s new CSA requirement
@@ -241,20 +241,20 @@ challenges ahead
 Requirements  
 - Tests
 
-### Mario Jardim - Schneider Electric, ECSO
+## Mario Jardim - Schneider Electric, ECSO
 
 ![](_attachments/20230207121951.png)  
 - Leverage of industry standards  
 - Combination of sharing external and internal parties
 
-## Panel 3: eIDASv2 - Where are we heading with digital identities?
+# Panel 3: eIDASv2 - Where are we heading with digital identities?
 
 ![](_attachments/20230207143402.png)
 
 Fostering trust through complete transparency. Alternatives to
 commercial offerings that do not place the individual at the center.
 
-### Dietmar Gattwinkel - European Commission
+## Dietmar Gattwinkel - European Commission
 
 ![](_attachments/20230207135444.png)  
 - Universal availability for European citizens everywhere, i.e., social
@@ -266,7 +266,7 @@ login with a privacy focus
 - Concurrently in order to meet deadlines a wide range of applications
 for civil and official purposes
 
-### Viki Manaila - Intesi Group
+## Viki Manaila - Intesi Group
 
 ![](_attachments/20230207140026.png)
 ![](_attachments/20230207140045.png)
@@ -275,7 +275,7 @@ for civil and official purposes
 - All parties involved understand the opportunities and support their
 development - The ability to grant and revoke data access
 
-### Andrea Rock - ANSSI
+## Andrea Rock - ANSSI
 
 ![](_attachments/20230207140930.png) - “Wallet” certification
 
@@ -295,7 +295,7 @@ account. - Coorporation between all parties involved and transparency
 - Proper standards  
 : Andrea Rock - ANSSI
 
-### Chiara Giovannini - ANEC
+## Chiara Giovannini - ANEC
 
 - Chiara Giovannini - ANEC  
 - Working Group related standards and issues for consumers  
@@ -316,7 +316,7 @@ account. - Coorporation between all parties involved and transparency
 - Capacity, responsibility, and equality (Laws against forced use of the
   digital wallet are a precondition)
 
-### Wojciech Wiewiorowski - EDPS
+## Wojciech Wiewiorowski - EDPS
 
 - Wojciech Wiewiorowski - EDPS  
 - Data protection authorities on national level  
@@ -338,11 +338,11 @@ account. - Coorporation between all parties involved and transparency
 - Who controls the data; owning is a wrong term and should not be used
   in this context
 
-## Panel 4: Landscape of the EU cybersecurity legislation
+# Panel 4: Landscape of the EU cybersecurity legislation
 
 ![](_attachments/20230207165859.png)
 
-### Ben Kokx - Philips
+## Ben Kokx - Philips
 
 ![](_attachments/20230207153802.png)  
 - Regulations concerning products that enter the European markets
@@ -364,7 +364,7 @@ established requirements - Demand of product scoping and intended use of
 products their environment  
 - Will the standard be cited? (BIG QUESTION)
 
-### George Sharkov - ESI CEE
+## George Sharkov - ESI CEE
 
 ![](_attachments/20230207155638.png)
 
@@ -383,7 +383,7 @@ products their environment
 
 ![](_attachments/20230207160705.png)
 
-### Mariela Pavlova - Infineon
+## Mariela Pavlova - Infineon
 
 ![](_attachments/20230207161223.png)
 
@@ -407,7 +407,7 @@ continuous monitoring
 - PSA Certified and GP SESIP is private -\> evaluate certification for
 MCU in IoT Area -\> low-level security, basic and substantial level
 
-### Andrea Caccia - Studio Caccia
+## Andrea Caccia - Studio Caccia
 
 ![](_attachments/20230207162528.png)  
 - Data act standardization breaks down data silos, engages new spaces,
@@ -443,7 +443,7 @@ for enabling a significant data market
 guidance is required to contextualize data and enable interoperability
 across different organizations, official organs, and standard bodies
 
-### Eric Vetillard - ENISA
+## Eric Vetillard - ENISA
 
 ![](_attachments/20230207163820.png)
 
