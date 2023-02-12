@@ -44,17 +44,20 @@ related to the emerging EU legislation:
 
 > Additional information:
 
-See the Article by the
-`International Association of Privacy Professionals` from [Luca
-Bertuzzi](https://twitter.com/BertuzLuca): [What the EU has in store for
-2023](https://iapp.org/news/a/what-the-eu-has-in-store-for-2023/)
-*Summary: “With the European elections in spring 2024 fast approaching,
-in the next 12 months, EU policymakers will focus on closing the most
-important legislative files.”*
+- About the 7th annual conference: [How Cybersecurity Standards Support
+  the Evolving EU Legislative
+  Landscape](https://www.enisa.europa.eu/news/how-cybersecurity-standards-support-the-evolving-eu-legislative-landscape)
 
-About the 7th annual conference: [How Cybersecurity Standards Support
-the Evolving EU Legislative
-Landscape](https://www.enisa.europa.eu/news/how-cybersecurity-standards-support-the-evolving-eu-legislative-landscape)
+- [A Europe fit for the digital
+  age](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age_en)
+
+- Article by the `International Association of Privacy Professionals`
+  from [Luca Bertuzzi](https://twitter.com/BertuzLuca): [What the EU has
+  in store for
+  2023](https://iapp.org/news/a/what-the-eu-has-in-store-for-2023/)
+  *Summary: “With the European elections in spring 2024 fast
+  approaching, in the next 12 months, EU policymakers will focus on
+  closing the most important legislative files.”*
 
 ------------------------------------------------------------------------
 
@@ -64,24 +67,84 @@ Landscape](https://www.enisa.europa.eu/news/how-cybersecurity-standards-support-
 
 ![](_attachments/20230209074821.png)
 
-- Christiane Kirketerp de Viron - European Commission - Digital Privacy
-  Policy
-- Elena Santiago Cid - CEN-CENELEC
-- Wolfgang Niedziella - CENELEC
-- Luis Jorge Romero - ETSI
-- Andreas Mitrakas - ENISA
+> Speaker(s)
+
+- [Christiane Kirketerp de
+  Viron](https://op.europa.eu/en/web/who-is-who/person/-/person/COM_00003AA7A7A0) -
+  [European Commission](https://commission.europa.eu/index_en) -
+  [Digital Privacy
+  Policy](https://op.europa.eu/en/web/who-is-who/organization/-/organization/CNECT/COM_CRF_245675)
+- [Elena Santiago Cid](https://www.scc.ca/en/elena-santiago-cid) -
+  [CEN-CENELEC](https://www.cencenelec.eu/)
+- [Wolfgang
+  Niedziella](https://www.cencenelec.eu/about-cenelec/structure-and-governance/cenelec-board-members/) -
+  [CEN-CENELEC](https://www.cencenelec.eu/)
+- [Luis Jorge
+  Romero](https://www.etsi.org/newsroom/news/1574-2019-04-etsi-re-elects-director-general-luis-jorge-romero) -
+  [ETSI](https://www.etsi.org/)
+- \[Andreas
+  Mitrakas\](https://www.rsaconference.com/experts/andreas%20mitrakas -
+  [ENISA](https://www.enisa.europa.eu/)
 
 ## Panel 2: Cyber Resilience Act - a game changer, how the standards can support it?
 
 ![](_attachments/20230207122939.png)
 
+> Speaker(s)
+
+- [Maika
+  Fohrenbach](https://op.europa.eu/en/web/who-is-who/person/-/person/COM_0000CA706CD3) -
+  [European Commission](https://commission.europa.eu/index_en)
+- [Samim
+  Ahmadi](https://scholar.google.de/citations?user=orNo2A8AAAAJ&hl=de) -
+  [umlaut](https://www.umlaut.com/)
+- [Gisela Meister](https://eucyberact.org/speaker/gisela-meister/) -
+  [Eurosmart](https://www.eurosmart.com/)
+- [Philippe
+  Magneron](http://lpra.org/trade-directory/hager-controls-sas/) -
+  [Hager Group](https://hagergroup.com/)
+- [Mario Jardim](https://www.enlit-europe.com/speakers/mario-jardim) -
+  [Schneider Electric](https://www.se.com/ww/en/) -
+  [ECSO](https://ecs-org.eu/)
+
 ## Panel 3: eIDASv2 - Where are we heading with digital identities?
 
 ![](_attachments/20230207143402.png)
 
+> Speaker(s)
+
+- [Dietmar
+  Gattwinkel](https://op.europa.eu/en/web/who-is-who/person/-/person/COM_00006A0C2DFF) -
+  [European Commission](https://commission.europa.eu/index_en)
+- [Viky
+  Manaila](https://cloudsignatureconsortium.org/committee/viky-manaila/) -
+  [Intesi Group](https://www.intesigroup.com/)
+- [Andrea Rock](https://womenwhoadvance.eu/andrea-rock/) -
+  [ANSSI](https://www.ssi.gouv.fr/)
+- [Chiara Giovannini](https://www.anec.eu/about-anec/our-anec-staff) -
+  [ANEC](https://www.anec.eu/)
+- [Wojciech
+  Wiewiorowski](https://edps.europa.eu/about-edps/members-mission/supervisors/wojciech-wiewi%C3%B3rowski_en) -
+  [EDPS](https://edps.europa.eu/)
+
 ## Panel 4: Landscape of the EU cybersecurity legislation
 
 ![](_attachments/20230207165859.png)
+
+> Speaker(s)
+
+- [Ben Kokx](https://eucyberact.org/speaker/ben-kokx/) -
+  [Philips](https://www.philips.com/)
+- [George Sharkov](https://cetef.eu/en/speakers/dr-george-sharkov/) -
+  [ESI CEE](https://esicenter.bg/)
+- [Mariela
+  Pavlova](http://www-sop.inria.fr/everest/personnel/Mariela.Pavlova/) -
+  [Infineon](https://www.infineon.com/)
+- [Andrea Caccia](https://www.digitalsme.eu/members/acaccia/) - [Studio
+  Caccia](https://cineuropa.org/en/filmography/245252/)
+- [Eric
+  Vetillard](https://ecosystemexperience.ovhcloud.com/en/speakers?modal=speaker&speakerId=bvcwFR1MyF) -
+  [ENISA](https://www.enisa.europa.eu/)
 
 ------------------------------------------------------------------------
 
