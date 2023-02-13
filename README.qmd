@@ -88,6 +88,7 @@ The 2023 programme of this well-recognized conference will have dedicated sessi
 
 ---
 
+<!--
 # Panel 1: Future of EU standardisation - regional vs. international
 
 ## Christiane Kirketerp de Viron - European Commission - Digital Privacy Policy
@@ -97,7 +98,9 @@ Digitalization cannot go without cybersecurity investments
 [](_attachments/20230209074821.png)                  
 - Harmonizing standards                                                                
 - Direct governance & involvement and direct legislative that represent the citizens of the EU
-- Openness and cooperate with international partners                                    
+- Openness and cooperate with international partners   
+- Call for more "secure by design" hardware and software
+- Two thirds of [NIS](https://www.enisa.europa.eu/topics/cybersecurity-policy/nis-directive-new) incidents are the result of a vulnerability exploitation / phishing, credential thefts, more ..                    
 
 ## Elena Santiago Cid - CEN-CENELEC
 
@@ -377,3 +380,4 @@ Fostering trust through complete transparency. Alternatives to commercial offeri
 - Basic means lower than mainstream certification and slight modification to modify them just enough 
 
 [](_attachments/20230207164249.png) 
+-->
